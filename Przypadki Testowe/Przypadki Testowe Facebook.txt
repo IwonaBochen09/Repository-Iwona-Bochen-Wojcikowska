@@ -1,0 +1,36 @@
+**1. Rejestracja:**
+
+- *Krok 1:* Otwórz aplikację Facebook.
+- *Krok 2:* Kliknij opcję "Zarejestruj się".
+- *Krok 3:* Wprowadź imię, nazwisko, numer telefonu lub adres e-mail, hasło i inne wymagane informacje.
+- *Krok 4:* Kliknij "Zarejestruj się" lub odpowiedni przycisk.
+- *Oczekiwany wynik:* Konto jest pomyślnie utworzone, a użytkownik jest przekierowany do swojego nowego profilu.
+
+**2. Znajdowanie znajomych:**
+- *Krok 1:* Przejdź do sekcji znajdowania znajomych.
+- *Krok 2:* Skorzystaj z opcji importowania kontaktów lub innych dostępnych metod wyszukiwania.
+- *Krok 3:* Połącz się z kilkoma osobami.
+- *Oczekiwany wynik:* Znajomi zostają dodani do listy kontaktów, a sugerowane połączenia są prezentowane użytkownikowi.
+
+**3. Publikowanie pierwszego posta:**
+- *Krok 1:* Przejdź do sekcji dodawania posta.
+- *Krok 2:* Wprowadź tekst i dołącz zdjęcie.
+- *Krok 3:* Kliknij "Opublikuj".
+- *Oczekiwany wynik:* Post jest opublikowany na profilu użytkownika i widoczny dla znajomych.
+
+**4. Interakcje z postami:**
+- *Krok 1:* Przejrzyj posty znajomych w strumieniu aktywności.
+- *Krok 2:* Polub kilka postów.
+- *Krok 3:* Skomentuj kilka postów.
+- *Oczekiwany wynik:* Twoje interakcje są widoczne dla innych użytkowników, a autorzy postów otrzymują odpowiednie powiadomienia.
+
+**5. Dodawanie do wydarzenia:**
+- *Krok 1:* Przejdź do sekcji wydarzeń.
+- *Krok 2:* Dołącz do publicznego wydarzenia lub stwórz własne, zapraszając znajomych.
+- *Oczekiwany wynik:* Aktywność jest widoczna w sekcji wydarzeń, a zaproszeni znajomi otrzymują powiadomienia.
+
+**6. Ustawienia prywatności:**
+- *Krok 1:* Przejdź do ustawień prywatności.
+- *Krok 2:* Dostosuj widoczność informacji na profilu i postach.
+- *Krok 3:* Zapisz dokonane zmiany.
+- *Oczekiwany wynik:* Ustawienia prywatności są skonfigurowane zgodnie z preferencjami użytkownika.

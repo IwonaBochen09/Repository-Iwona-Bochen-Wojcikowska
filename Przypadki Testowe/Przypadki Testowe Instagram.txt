@@ -1,0 +1,47 @@
+1. **Rejestracja Konta:**
+- Otwórz aplikację Instagram.
+- Rozpocznij proces rejestracji, podając unikalny adres e-mail.
+- Uzupełnij wymagane informacje, takie jak użytkownik, hasło itp.
+- Upewnij się, że po poprawnej rejestracji możesz zalogować się na to nowo utworzone konto.
+
+2. **Logowanie:**
+- Uruchom aplikację Instagram.
+- Wprowadź poprawne dane logowania.
+- Zweryfikuj, czy zostajesz pomyślnie zalogowany na konto.
+
+3. **Przeglądanie Strumienia:**
+- Zaloguj się na konto.
+- Sprawdź, czy widzisz najnowsze posty w swoim strumieniu.
+- Upewnij się, że po kliknięciu w post możesz zobaczyć komentarze i polubienia.
+
+4. **Dodawanie Nowego Postu:**
+- Wejdź w sekcję dodawania nowego postu.
+- Wybierz zdjęcie lub film.
+- Dodaj opis i/lub lokalizację.
+- Sprawdź, czy post jest widoczny na Twoim profilu po opublikowaniu.
+
+5. **Zarządzanie Profilem:**
+- Edytuj swój profil, zmieniając zdjęcie profilowe lub opis.
+- Sprawdź, czy zmiany są widoczne na Twoim profilu.
+
+6. **Wyszukiwanie Użytkowników:**
+- Użyj funkcji wyszukiwania, aby znaleźć innych użytkowników.
+- Sprawdź, czy wyniki wyszukiwania są dokładne.
+
+7. **Wysyłanie Wiadomości:**
+- Wybierz innego użytkownika i przejdź do zakładki wiadomości.
+- Wyslij wiadomość i upewnij się, że jest dostarczana poprawnie.
+
+8. **Odwiedzanie Profilu:**
+- Przejdź do profilu innego użytkownika.
+- Sprawdź, czy widzisz jego posty, obserwujących i obserwowanych.
+
+9. **Reakcje na Posty:**
+- Polub i skomentuj kilka postów różnych użytkowników.
+- Zweryfikuj, czy Twoje reakcje są widoczne na odpowiednich postach.
+
+10. **Zarządzanie Powiadomieniami:**
+- Skonfiguruj preferencje powiadomień.
+- Sprawdź, czy otrzymujesz powiadomienia zgodnie z ustawieniami.
+
+	
