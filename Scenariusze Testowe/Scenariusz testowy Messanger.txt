@@ -1,0 +1,37 @@
+**Scenariusz testowy: Komunikacja tekstowa**
+
+1. **Krok 1: Logowanie**
+- Wprowadź poprawne dane logowania (numer telefonu lub konto Facebook).
+- Sprawdź, czy proces logowania przebiega bez problemów.
+
+2. **Krok 2: Nawigacja po interfejsie**
+- Przejrzyj różne sekcje interfejsu (czat, kontakty, ustawienia).
+- Upewnij się, że wszystkie sekcje są łatwo dostępne i intuicyjne.
+
+3. **Krok 3: Wysyłanie wiadomości tekstowej**
+- Wybierz kontakt z listy.
+- Napisz i wyślij wiadomość tekstową.
+- Sprawdź, czy wiadomość jest dostarczana natychmiastowo.
+
+4. **Krok 4: Odbieranie wiadomości**
+- Upewnij się, że po otrzymaniu wiadomości użytkownik otrzymuje odpowiednie powiadomienie.
+- Zweryfikuj, czy treść wiadomości jest czytelna i kompletna.
+
+5. **Krok 5: Przesyłanie plików**
+- Spróbuj przesłać zdjęcie z galerii.
+- Upewnij się, że plik jest poprawnie przesyłany i wyświetlany w czacie.
+
+6. **Krok 6: Emotikony i linki**
+- Wyślij emotikonę.
+- Sprawdź, czy emotikona jest poprawnie renderowana.
+- Wprowadź link i sprawdź, czy jest klikalny i poprawnie wyświetlany.
+
+7. **Krok 7: Notyfikacje**
+- Zminimalizuj aplikację i sprawdź, czy notyfikacje o nowych wiadomościach są wyświetlane na ekranie głównym.
+
+**Oczekiwane wyniki:**
+- Proces logowania przebiega bez problemów.
+- Interfejs jest intuicyjny i łatwy w nawigacji.
+- Wiadomości tekstowe, emotikony i linki są przesyłane i wyświetlane poprawnie.
+- Notyfikacje o nowych wiadomościach są skuteczne.
+	

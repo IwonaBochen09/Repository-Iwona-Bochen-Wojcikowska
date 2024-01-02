@@ -1,0 +1,27 @@
+**Scenariusz testowy: Nowy użytkownik i interakcje:**
+
+1. *Rejestracja:*
+- **Kroki:** Pobierz aplikację, zarejestruj nowe konto, wypełniając wszystkie wymagane informacje.
+- **Oczekiwany wynik:** Konto powinno być utworzone, a użytkownik powinien być przekierowany do swojego nowego profilu.
+
+2. *Znajdowanie znajomych:*
+- **Kroki:** Skorzystaj z funkcji znajdowania znajomych, aby połączyć się z kilkoma osobami.
+- **Oczekiwany wynik:** Znajomi powinni być dodani do listy kontaktów, a aplikacja powinna zaproponować dalsze połączenia oparte na dostępnych informacjach.
+
+3. *Publikowanie pierwszego posta:*
+- **Kroki:** Dodaj swój pierwszy post zawierający tekst i zdjęcie.
+- **Oczekiwany wynik:** Post powinien być opublikowany na Twoim profilu i być widoczny dla znajomych w ich strumieniach aktywności.
+
+4. *Interakcje z postami:*
+- **Kroki:** Polub i skomentuj kilka postów znajomych.
+- **Oczekiwany wynik:** Twoje interakcje powinny być widoczne dla innych użytkowników, a autorzy postów powinni otrzymać odpowiednie powiadomienia.
+
+5. *Dodawanie do wydarzenia:*
+- **Kroki:** Dołącz do publicznego wydarzenia lub stwórz własne, zapraszając znajomych.
+- **Oczekiwany wynik:** Twoja aktywność powinna być widoczna w sekcji wydarzeń, a zaproszeni znajomi powinni otrzymać powiadomienia.
+
+6. *Ustawienia prywatności:*
+- **Kroki:** Dostosuj ustawienia prywatności dla swojego profilu i postów.
+- **Oczekiwany wynik:** Ustawienia powinny być skonfigurowane zgodnie z Twoimi preferencjami, a informacje prywatne powinny być widoczne tylko dla wybranych użytkowników.
+
+	

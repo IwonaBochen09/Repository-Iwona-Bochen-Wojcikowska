@@ -1,0 +1,39 @@
+1. **Rejestracja konta:**
+- Zarejestruj nowe konto na platformie Instagram.
+- Upewnij się, że proces rejestracji przebiega sprawnie i bez błędów.
+
+2. **Tworzenie profilu:**
+- Dodaj zdjęcie profilowe, opis oraz link do strony internetowej (jeśli dostępny).
+- Sprawdź, czy wszystkie elementy profilu są widoczne i poprawnie się wyświetlają.
+
+3. **Publikowanie zdjęcia:**
+- Prześlij nowe zdjęcie na swoje konto.
+- Upewnij się, że proces dodawania zdjęcia jest intuicyjny i nie generuje błędów.
+
+4. **Komentarze i polubienia:**
+- Skomentuj i polub kilka zdjęć innych użytkowników.
+- Sprawdź, czy twoje interakcje są widoczne i poprawnie zapisywane.
+
+5. **Story:**
+- Opublikuj swoją pierwszą Story.
+- Upewnij się, że Story jest widoczne dla Twoich obserwujących.
+
+6. **Eksploruj:**
+- Przeglądaj stronę Eksploruj, oceniaj i zapisuj interesujące cię treści.
+- Sprawdź, czy algorytm rekomendacji działa poprawnie.
+
+7. **Wiadomości:**
+- Wyślij prywatną wiadomość do innego użytkownika.
+- Upewnij się, że wiadomość jest dostarczona i odbierana bez problemów.
+
+8. **Zabezpieczenia konta:**
+- Sprawdź opcje zabezpieczeń konta, takie jak dwuetapowa weryfikacja.
+- Upewnij się, że zmiany w ustawieniach bezpieczeństwa są skuteczne.
+
+9. **Test mobilności:**
+- Sprawdź działanie aplikacji na różnych urządzeniach mobilnych (smartfonie, tablecie).
+- Upewnij się, że układ i funkcje są odpowiednio dostosowane.
+
+10. **Raportowanie problemów:**
+- W razie napotkania błędów, zgłoś je poprzez narzędzia raportowania dostępne w aplikacji.
+
