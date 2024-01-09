@@ -1,0 +1,52 @@
+1 **Account Registration:**.
+- Open the Instagram application.
+- Start the registration process by providing a unique email address.
+- Complete the required information such as user, password, etc.
+- Make sure you can log in to this newly created account after you have registered correctly.
+
+
+2 **Logging in:**.
+- Launch the Instagram application.
+- Enter the correct login information.
+- Verify that you are successfully logged into the account.
+
+
+3. **Viewing the Stream:**.
+- Log in to your account.
+- Verify that you see the latest posts in your stream.
+- Make sure you can see comments and likes when you click on a post.
+
+
+4 **Adding a New Post:**.
+- Go to the add new post section.
+- Select a photo or video.
+- Add a description and/or location.
+- Check if the post is visible on your profile after publishing.
+
+
+5 **Manage Profile:**.
+- Edit your profile by changing your profile picture or description.
+- Check if the changes are visible on your profile.
+
+
+6. **User Search:**.
+- Use the search function to find other users.
+- Check if the search results are accurate.
+
+
+7. **Sending Messages:**.
+- Select another user and go to the messages tab.
+- Send a message and make sure it is delivered correctly.
+
+
+8. **Go to Profile:**.
+- Go to another user's profile.
+- Make sure you can see his/her posts, watchers and followers.
+
+
+9 **Mobility test:**.
+- Test the app's performance on different mobile devices (smartphone, tablet).
+- Make sure the layout and functions are properly adjusted.
+
+10. **Reporting problems:**.
+- If you encounter errors, report them through the reporting tools available in the app.

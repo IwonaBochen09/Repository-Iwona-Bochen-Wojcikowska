@@ -1,0 +1,30 @@
+**1. Registration:**.
+
+- *Step 1:* Open the Facebook application.
+- *Step 2:* Click the "Register" option.
+- *Step 3:* Enter your first name, last name, phone number or email address, password and other required information.
+- *Step 4:* Click "Register" or the corresponding button.
+- *Expected result:* The account is successfully created and the user is redirected to his new profile.
+
+**2. Finding friends:**.
+- *Step 1:* Go to the find friends section.
+- *Step 2:* Use the option to import contacts or other available search methods.
+- *Step 3:* Connect with several people.
+- *Expected result:* Friends are added to the contact list, and suggested connections are presented to the user.
+
+**3. Publish the first post:**.
+- *Step 1:* Go to the add post section.
+- *Step 2:* Enter the text and attach a photo.
+- *Step 3:* Click "Publish."
+- *Expected result:* The post is published on the user's profile and visible to friends.
+
+**4. Interact with posts:**.
+- *Step 1:* Browse your friends' posts in the activity stream.
+- *Step 2:* Like some posts.
+- *Step 3:* Comment on several posts.
+- *Expected result:* Your interactions are visible to other users, and post authors receive corresponding notifications.
+
+**5. Adding to the event:**.
+- *Step 1:* Go to the events section.
+- *Step 2:* Join a public event or create your own by inviting friends.
+- *Expected result:* The activity is visible in the events section,

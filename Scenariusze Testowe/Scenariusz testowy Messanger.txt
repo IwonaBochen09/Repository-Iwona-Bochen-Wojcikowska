@@ -1,3 +1,7 @@
+Scenariusz testowy Messanger:
+
+**Cel testu:** Weryfikacja funkcjonalności głównych aspektów aplikacji Messenger.
+
 **Scenariusz testowy: Komunikacja tekstowa**
 
 1. **Krok 1: Logowanie**
@@ -34,4 +38,6 @@
 - Interfejs jest intuicyjny i łatwy w nawigacji.
 - Wiadomości tekstowe, emotikony i linki są przesyłane i wyświetlane poprawnie.
 - Notyfikacje o nowych wiadomościach są skuteczne.
-	
+
+**Uwaga:**
+- Powyższy scenariusz można dostosować do testowania innych funkcji, takich jak połączenia głosowe, czaty grupowe itp., w zależności od potrzeb testów.

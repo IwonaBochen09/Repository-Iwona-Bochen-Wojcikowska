@@ -1,0 +1,25 @@
+1. **Rejestracja użytkownika:**
+- Krok 1: Otwórz aplikację Messenger.
+- Krok 2: Wybierz opcję rejestracji.
+- Krok 3: Wprowadź wymagane dane, takie jak imię, nazwisko i adres e-mail.
+- Krok 4: Sprawdź potwierdzenie rejestracji na podany adres e-mail.
+
+2. **Wysyłanie wiadomości tekstowej:**
+- Krok 1: Zaloguj się do konta Messenger.
+- Krok 2: Otwórz konwersację z wybranym kontaktem.
+- Krok 3: Wprowadź tekst wiadomości.
+- Krok 4: Naciśnij przycisk wysyłania i sprawdź, czy wiadomość została dostarczona.
+
+3. **Dodawanie nowego kontaktu:**
+- Krok 1: Znajdź opcję dodawania nowego kontaktu.
+- Krok 2: Wprowadź numer telefonu lub adres e-mail nowego kontaktu.
+- Krok 3: Sprawdź, czy nowy kontakt został dodany do listy.
+
+4. **Przeglądanie wiadomości archiwalnych:**
+- Krok 1: Otwórz konwersację z wcześniejszymi wiadomościami.
+- Krok 2: Przewiń wstecz i sprawdź, czy wcześniejsze wiadomości są poprawnie wyświetlane.
+
+5. **Zmiana ustawień prywatności:**
+- Krok 1: Wejdź w ustawienia aplikacji Messenger.
+- Krok 2: Znajdź sekcję prywatności.
+- Krok 3: Zmodyfikuj ustawienia prywatności, na przykład dostęp do informacji czy powiadomienia.
