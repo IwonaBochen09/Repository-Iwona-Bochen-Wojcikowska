@@ -1,0 +1,31 @@
+Przypadki Testowe Gmail
+
+1. *Logowanie do Konta:*
+   - Krok 1: Otwórz aplikację Gmail.
+   - Krok 2: Wprowadź poprawny adres e-mail.
+   - Krok 3: Wprowadź poprawne hasło.
+   - Krok 4: Sprawdź, czy użytkownik jest pomyślnie zalogowany.
+
+2. *Wysyłanie E-maila:*
+   - Krok 1: Zaloguj się do konta Gmail.
+   - Krok 2: Kliknij przycisk "Napisz".
+   - Krok 3: Wprowadź poprawny adres e-mail odbiorcy.
+   - Krok 4: Wprowadź temat i treść e-maila.
+   - Krok 5: Kliknij "Wyślij" i sprawdź, czy e-mail został wysłany.
+
+3. *Odbieranie E-maila:*
+   - Krok 1: Zaloguj się do konta Gmail.
+   - Krok 2: Sprawdź, czy najnowszy e-mail jest widoczny na liście skrzynki odbiorczej.
+   - Krok 3: Otwórz e-mail i zweryfikuj treść oraz załączniki.
+
+4. *Zarządzanie Katalogami:*
+   - Krok 1: Zaloguj się do konta Gmail.
+   - Krok 2: Utwórz nowy katalog.
+   - Krok 3: Przenieś co najmniej jedną wiadomość do nowego katalogu.
+   - Krok 4: Sprawdź, czy wiadomość została poprawnie przeniesiona.
+
+5. *Usuwanie E-maila:*
+   - Krok 1: Zaloguj się do konta Gmail.
+   - Krok 2: Zaznacz co najmniej jedną wiadomość do usunięcia.
+   - Krok 3: Kliknij na przycisk usuwania.
+   - Krok 4: Sprawdź, czy wiadomość została przeniesiona do folderu "Kosz".

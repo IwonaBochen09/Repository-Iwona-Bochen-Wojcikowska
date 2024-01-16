@@ -1,0 +1,42 @@
+Przypadki Testowe Zalando:
+
+1. *Logowanie:*
+   - Otwórz stronę Zalando i zaloguj się na swoje konto.
+   - Sprawdź poprawność danych logowania.
+
+2. *Wyszukiwanie produktu:*
+   - Wprowadź nazwę produktu w pole wyszukiwania.
+   - Wybierz odpowiedni produkt spośród wyników wyszukiwania.
+
+3. *Dodawanie do koszyka:*
+   - Sprawdź dostępność rozmiarów i kolorów.
+   - Dodaj produkt do koszyka.
+
+4. *Przejście do koszyka:*
+   - Kliknij na ikonę koszyka.
+   - Upewnij się, że dodany produkt jest widoczny.
+
+5. *Finalizacja zamówienia:*
+   - Przejdź do procesu zamówienia.
+   - Wprowadź i sprawdź adres dostawy.
+   - Wybierz preferowaną metodę płatności.
+   - Zakończ zamówienie.
+
+6. *Potwierdzenie zamówienia:*
+   - Otrzymaj potwierdzenie zamówienia.
+   - Sprawdź, czy zawiera poprawne szczegóły zamówienia.
+
+7. *Śledzenie zamówienia:*
+   - Skorzystaj z funkcji śledzenia zamówienia.
+   - Upewnij się, że informacje o statusie są aktualne.
+
+8. *Dostawa:*
+   - Odbierz dostarczony produkt.
+   - Sprawdź, czy produkt jest zgodny z zamówieniem.
+
+9. *Zwrot (opcjonalny):*
+   - W razie potrzeby, zainicjuj procedurę zwrotu.
+   - Upewnij się, że status zwrotu jest aktualizowany.
+
+10. *Ocena i recenzja:*
+    - Jeśli to możliwe, dodaj ocenę i recenzję produktu.
