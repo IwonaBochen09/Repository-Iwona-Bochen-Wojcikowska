@@ -1,0 +1,44 @@
+Scenariusz Testowy Zalando
+
+Oczywiście! Scenariusz testowy dla Zalando można przygotować krok po kroku w następujący sposób:
+
+1. *Krok 1: Rejestracja użytkownika*
+   - Otwórz stronę główną Zalando.
+   - Kliknij opcję rejestracji.
+   - Wprowadź poprawne dane rejestracyjne.
+   - Upewnij się, że użytkownik zostaje pomyślnie zarejestrowany.
+
+2. *Krok 2: Wyszukiwanie produktu*
+   - Zaloguj się na konto użytkownika.
+   - Wprowadź kategorię produktu w polu wyszukiwania.
+   - Wybierz produkt z wyników wyszukiwania.
+   - Sprawdź, czy wybrany produkt jest wyświetlany poprawnie.
+
+3. *Krok 3: Dodawanie do koszyka*
+   - Dodaj wybrany produkt do koszyka.
+   - Zweryfikuj, czy produkt został pomyślnie dodany do koszyka.
+   - Upewnij się, że koszyk wyświetla poprawną liczbę produktów.
+
+4. *Krok 4: Realizacja zamówienia*
+   - Przejdź do koszyka i rozpocznij proces realizacji zamówienia.
+   - Wprowadź poprawne dane dostawy i płatności.
+   - Upewnij się, że zamówienie zostało złożone pomyślnie.
+   - Sprawdź potwierdzenie zamówienia w historii zamówień użytkownika.
+
+5. *Krok 5: Śledzenie zamówienia*
+   - Przejdź do sekcji "Śledzenie zamówienia".
+   - Wprowadź numer zamówienia.
+   - Zweryfikuj, czy informacje o śledzeniu są aktualne i poprawne.
+
+6. *Krok 6: Obsługa konta użytkownika*
+   - Zmodyfikuj dane osobowe w profilu użytkownika.
+   - Zmiana hasła użytkownika.
+   - Sprawdź, czy zmiany są skutecznie wprowadzone.
+
+7. *Krok 7: Testowanie responsywności*
+   - Sprawdź responsywność strony na różnych urządzeniach (komputer, tablet, telefon).
+   - Upewnij się, że interakcja z witryną jest łatwa i intuicyjna na różnych rozdzielczościach ekranu.
+
+8. *Krok 8: Testowanie wydajności*
+   - Przeprowadź testy wydajności, sprawdzając czas ładowania stron, zwłaszcza podczas składania zamówienia.
+   - Upewnij się, że witryna zachowuje się efektywnie, nawet przy dużej liczbie użytkowników.

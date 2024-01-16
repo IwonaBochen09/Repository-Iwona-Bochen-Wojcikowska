@@ -1,0 +1,40 @@
+*Scenariusz Testowy dla Aplikacji Gmail - Logowanie i Wysyłanie E-maila:*
+
+1. *Opis Scenariusza:*
+   - Celem tego scenariusza jest przetestowanie funkcji logowania do konta Gmail oraz poprawności procesu wysyłania e-maila.
+
+2. *Kroki:*
+   - *Krok 1: Logowanie do Konta:*
+      - Otwórz aplikację Gmail na urządzeniu mobilnym.
+      - Wprowadź poprawny adres e-mail.
+      - Wprowadź poprawne hasło.
+      - Sprawdź, czy użytkownik jest pomyślnie zalogowany.
+
+   - *Krok 2: Przejście do Skrzynki Odbiorczej:*
+      - Po zalogowaniu, upewnij się, że znajdujesz się w skrzynce odbiorczej.
+      - Zweryfikuj, czy lista e-maili jest poprawnie wyświetlana.
+
+   - *Krok 3: Wysyłanie Nowej Wiadomości:*
+      - Kliknij przycisk "Napisz" lub ikonę "+".
+      - Wprowadź poprawny adres e-mail odbiorcy.
+      - Dodaj temat i treść e-maila.
+      - Opcjonalnie, dołącz plik lub zdjęcie.
+      - Kliknij "Wyślij".
+
+   - *Krok 4: Weryfikacja Wysłanego E-maila:*
+      - Przejdź do folderu "Wysłane".
+      - Upewnij się, że wysłany e-mail jest widoczny na liście.
+      - Sprawdź, czy temat i treść e-maila są zgodne z wprowadzonymi danymi.
+
+   - *Krok 5: Wylogowanie z Konta:*
+      - Sprawdź funkcję wylogowywania z konta.
+      - Upewnij się, że po wylogowaniu aplikacja wraca do ekranu logowania.
+
+3. *Oczekiwane Wyniki:*
+   - Użytkownik powinien być w stanie pomyślnie zalogować się do konta Gmail.
+   - Proces wysyłania e-maila powinien działać bez problemów.
+   - Wysłany e-mail powinien być widoczny w folderze "Wysłane".
+   - Funkcja wylogowywania powinna działać poprawnie.
+
+4. *Uwagi końcowe:*
+   - Scenariusz ten powinien być powtarzalny na różnych urządzeniach i systemach operacyjnych, aby upewnić się o uniwersalności działania aplikacji Gmail.
