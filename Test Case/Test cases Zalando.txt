@@ -1,0 +1,42 @@
+Zalando Test Cases:
+
+1. *Logging in:*.
+   - Open the Zalando website and log in to your account.
+   - Verify that your login information is correct.
+
+2. *Product Search:*.
+   - Enter the product name in the search field.
+   - Select the corresponding product from the search results.
+
+3. *Add to cart:*.
+   - Check the availability of sizes and colors.
+   - Add the product to the shopping cart.
+
+4. *Go to cart:*.
+   - Click on the shopping cart icon.
+   - Make sure the added product is visible.
+
+5. *Finalize order:*.
+   - Proceed to the order process.
+   - Enter and verify the delivery address.
+   - Select your preferred payment method.
+   - Finalize the order.
+
+6. *Confirm order:*.
+   - Receive order confirmation.
+   - Check that it contains the correct order details.
+
+7. *Order tracking:*.
+   - Use the order tracking function.
+   - Make sure the status information is up to date.
+
+8. *Delivery:*.
+   - Receive the delivered product.
+   - Verify the product complies with the order.
+
+9. *Return (optional):*.
+   - If necessary, initiate the return procedure.
+   - Make sure the return status is updated.
+
+10. *Rating and review:*.
+    - If possible, add a product rating and review.

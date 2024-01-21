@@ -1,0 +1,31 @@
+Gmail Test Cases
+
+1 *Logging into an Account:*.
+   - Step 1: Open the Gmail application.
+   - Step 2: Enter a valid email address.
+   - Step 3: Enter a valid password.
+   - Step 4: Verify that the user is successfully logged in.
+
+2 *Send Email:*.
+   - Step 1: Log in to your Gmail account.
+   - Step 2: Click the "Write" button.
+   - Step 3: Enter a valid email address for the recipient.
+   - Step 4: Enter the subject and content of the email.
+   - Step 5: Click "Send" and check if the email has been sent.
+
+3 *Receive Email:*.
+   - Step 1: Log in to your Gmail account.
+   - Step 2: Check if the latest email is visible in the Inbox list.
+   - Step 3: Open the e-mail and verify the content and attachments.
+
+4 *Manage Directories:*.
+   - Step 1: Log in to your Gmail account.
+   - Step 2: Create a new directory.
+   - Step 3: Move at least one message to the new directory.
+   - Step 4: Verify that the message has been moved correctly.
+
+5 *Deleting Email:*.
+   - Step 1: Log in to your Gmail account.
+   - Step 2: Select at least one message to delete.
+   - Step 3: Click on the delete button.
+   - Step 4: Check if the message has been moved to the "Trash" folder.
